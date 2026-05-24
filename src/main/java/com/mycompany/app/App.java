@@ -10,8 +10,7 @@ public class App {
     private static final String MESSAGE = "Hello World!";
 
     // 构造方法
-    public App() {
-    }
+    public App() {}
 
     // 主函数：程序入口
     public static void main(String[] args) {
